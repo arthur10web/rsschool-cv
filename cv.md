@@ -29,8 +29,8 @@ let numb = String(num).split("").map(Number).map(num => num*num).join('')
 
 # Education 
 + Belarusian State University
-  + Faculty of Mechanics and Mathematics
+    + Faculty of Mechanics and Mathematics
     + Mathematics and Information Technology -> Web Programming and Internet Technologies
 + IT-shatle 
-  + HTML,CSS(2021)
-  + JS(2021)
+    + HTML,CSS(2021)
+    + JS(2021)
