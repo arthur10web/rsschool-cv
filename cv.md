@@ -34,3 +34,6 @@ let numb = String(num).split("").map(Number).map(num => num*num).join('')
 + IT-shatle 
     + HTML,CSS(2021)
     + JS(2021)
+# Language 
++ Russian - native speaker
++ English - B1
