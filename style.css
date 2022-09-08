@@ -1,0 +1,154 @@
+
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+.person-block{
+    
+    display:flex;
+    flex-direction: row;
+    background-color:powderblue;
+    height: 300px;
+    padding-top: 30px;
+    padding-left:30px;
+}
+.person-links{
+    padding-top: 10px;
+    padding-left: 150px;
+    font-size: 30px;
+    font-family: Roboto;
+}
+.person-link{
+    display: flex;
+    padding-top: 10px;
+}
+.person-name{
+    font-size: 40px;
+    font-family: Roboto;
+}
+.person-age{
+    font-size: 25px;
+    opacity: 0.8;
+    font-family: Roboto;
+}
+.person-prof{
+    font-size: 30px;
+    font-family: Roboto;
+}
+.person-prof a{
+    text-decoration: none;
+    color:blue;
+}
+.person-prof a:visited{
+    text-decoration: none;
+    color:darkblue;
+}
+.person-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: contain;
+}
+.person-from{
+    font-size: 30px;
+    font-family: Roboto;
+}
+.person-from a{
+    text-decoration: none;
+    color: green;
+}
+.person-from a:visited{
+    text-decoration: none;
+    color: darkgreen;
+}
+.short-info-person{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.link-logo{
+    padding-left: 15px;
+    width: 40px;
+    height: 40px;
+}
+.person-link a{
+    font-size: 30px;
+    text-decoration: none;
+    color:darkblue
+}
+.prev-about{
+    font-family: Roboto;
+}
+.text-about{
+     
+    font-family: 'Oswald', sans-serif;
+
+}
+.skills{
+    padding-top: 30px;
+    padding-left:30px;
+    background-color:powderblue;
+    height: 200px;
+}
+.skills-list{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.skill{
+    border: 1px black groove ;
+    border-radius:5px;
+    width: 100px;
+    font-family: 'Roboto' ;
+    text-align: center;
+   margin-top:20px ;
+   margin-right: 20px;
+}
+.info-global{
+    border-bottom:1px black groove ;
+    padding-top: 30px;
+    padding-left:30px;
+}
+
+.education{
+    padding-top: 30px;
+    padding-left:30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+    border-bottom:1px black groove;
+}
+.education-info{
+    font-family: 'Oswald', sans-serif;
+}
+.education-flex{
+    display: flex;
+}
+.education-info-second{
+    margin-left: 200px;
+}
+.education-name{
+    font-size: 20px;
+    font-family: Roboto;
+    
+}
+.languages{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left:30px;
+    background-color:powderblue;
+    padding-bottom: 20px;
+    border-bottom:1px black groove;
+}
+.languages h2{
+
+    font-family: roboto;
+}
+.code-exmp h2{
+    font-family: Roboto;
+}
+
+.code-exmp{
+    padding-top: 30px;
+    padding-left:30px;
+}
